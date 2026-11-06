@@ -1,0 +1,13 @@
+{
+  "name": "recon",
+  "description": "Recon: a weekly digest of what your competitors actually changed. Pricing, positioning, changelogs, new pages and hiring, diffed against last week, ranked by importance, every line with evidence. Optional Slack posting.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Pilotree",
+    "url": "https://pilotree.ai"
+  },
+  "keywords": ["competitors", "competitive-intelligence", "pricing", "monitoring", "slack", "digest"],
+  "license": "MIT",
+  "homepage": "https://github.com/Pilotree-ai/recon",
+  "repository": "https://github.com/Pilotree-ai/recon"
+}

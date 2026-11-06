@@ -1,0 +1,18 @@
+{
+  "name": "recon",
+  "owner": {
+    "name": "Pilotree",
+    "url": "https://pilotree.ai"
+  },
+  "metadata": {
+    "description": "Recon, a Claude Code plugin from Pilotree."
+  },
+  "plugins": [
+    {
+      "name": "recon",
+      "source": "./",
+      "description": "A weekly digest of what your competitors actually changed.",
+      "version": "0.1.0"
+    }
+  ]
+}
