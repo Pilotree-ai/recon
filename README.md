@@ -38,6 +38,19 @@ Post it to a Slack channel every Monday, or just ask for it when you want it.
 
 ---
 
+## Install
+
+```
+/plugin marketplace add Pilotree-ai/recon
+/plugin install recon@recon
+```
+
+The skill shows up as `recon:competitor-recon`. You don't need to call it by name.
+
+**Needs:** Claude Code, and `curl` and `python3`, which come with macOS and most Linux systems. Slack is optional: connect it once in claude.ai Settings > Connectors.
+
+---
+
 ## Why it exists
 
 Everyone means to keep an eye on the competition. Nobody does.
@@ -80,19 +93,6 @@ The first run takes a **baseline**: where every competitor stands today. Changes
 | **Changelog and blog** | New entries and launches, read from RSS when there's a feed |
 | **Sitemap** | New pages and sections: integrations, landing pages for a new market, and comparison pages that name you |
 | **Jobs** | Hiring jumps, new departments, new countries, first senior hires. Reads public Greenhouse, Lever, Ashby and Workable boards |
-
----
-
-## Install
-
-```
-/plugin marketplace add Pilotree-ai/recon
-/plugin install recon@recon
-```
-
-The skill shows up as `recon:competitor-recon`. You don't need to call it by name.
-
-**Needs:** Claude Code, and `curl` and `python3`, which come with macOS and most Linux systems. Slack is optional: connect it once in claude.ai Settings > Connectors.
 
 ---
 
